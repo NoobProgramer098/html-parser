@@ -16,7 +16,7 @@ The output will be like this :-
 >>char sample[length of string];
 >>gets(sample);  ____{Input your sample}
 
-(Input)>> \<h1\> Parse this \</span\>  
+>> \<h1\> Parse this \</span\>  (Input)
 
 The output will be like this :-
 >>Parse this _______{Clean output with no whitespaces in it}
