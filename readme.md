@@ -1,3 +1,4 @@
+<h1> Welcome to html parser </h1>
 This is a <html> parser in C which takes a string containing html tags in it and parse it to a normal string.
 I am a beginer , if anyone wants to give me any suggestions, please send pull request.
 
@@ -15,7 +16,7 @@ The output will be like this :-
 >>char sample[length of string];
 >>gets(sample);  ____{Input your sample}
 
-(Input)>> <h1> Parse this </h1>
+(Input)>> <span> Parse this </span>  'Note - You can also choose h1 or any word instead of span'
 
 The output will be like this :-
 >>Parse this _______{Clean output with no whitespaces in it}
