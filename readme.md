@@ -12,7 +12,7 @@ The output will be like this :-
 >>This is a string _______{Clean output with no whitespaces in it}
 
 
-1)If string is like this (input):
+2)If string is like this (input):
 >>char sample[length of string];
 >>gets(sample);  ____{Input your sample}
 
