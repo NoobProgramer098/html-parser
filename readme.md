@@ -5,7 +5,7 @@ I am a beginer , if anyone wants to give me any suggestions, please send pull re
 Example:
 
 1)If string is like this :
->>char sample[]="<span>  This is a string   </span>";
+>>char sample[]="\<span\>  This is a string   \</span\>";
 or you also can input the string
 
 The output will be like this :-
@@ -16,7 +16,7 @@ The output will be like this :-
 >>char sample[length of string];
 >>gets(sample);  ____{Input your sample}
 
-(Input)>> <span> Parse this </span>  'Note - You can also choose h1 or any word instead of span'
+(Input)>> \<h1\> Parse this \</span\>  
 
 The output will be like this :-
 >>Parse this _______{Clean output with no whitespaces in it}
